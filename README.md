@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on some webdevelopement company
 - 📫 How to reach me : https://www.facebook.com/tanvir.rafi.3348
 
-project 1:Fitness club=>
-1.Website : FitnessClub.
+ 
+1.project1 : FitnessClub =>
+
 live site:https://fitnesscenter-9352e.web.app/
 
 2.This is totally designed by me .
@@ -22,39 +23,39 @@ Front-End:Html.css.javascript,ES6,React js,bootstrap.
 Back-End:Node js,Express js,Mongodb etc.
 Tools:VS Code,Chrome dev,firebase,git,heroku etc.
 
-project.2:BigBazaer=>
+project.2:BigBazaer =>
 
 live site:https://bigbazar-f3c5c.web.app
 
-This is a Big Bazar shopping website.
+1.This is a Big Bazar shopping website.
 
-Here people can visit and order products.
+2.Here people can visit and order products.
 
-At the home page we can see products details and people select product for buy now.
+3.At the home page we can see products details and people select product for buy now.
 
-Then go to checkOut page and procceded for order page.In the order page people give some information like name,email,address,phone number and many things and order product.
+4.Then go to checkOut page and procceded for order page.In the order page people give some information like name,email,address,phone number and many things and order product.
 
-one can also add product by admin and delete product by manage inventory .But first things u have must log in by google.Thnq so much.
+5.one can also add product by admin and delete product by manage inventory .But first things u have must log in by google.Thnq so much.
 
 Front-End:Html.css.javascript,ES6,React js,bootstrap.
 Back-End:Node js,Express js,Mongodb etc.
 Tools:VS Code,Chrome dev,firebase,git,heroku etc.
 
-3.Ride share=>
+project 3 : Ride share =>
 
 live link :https://city-rider-4e5ce.firebaseapp.com/
 
-This is a ride share website.
+1.This is a ride share website.
 
-people can buy ticket for bus,bike and train from here.
+2.people can buy ticket for bus,bike and train from here.
 
-This is totally online ticket selling service
+3.This is totally online ticket selling service
 
-This is my first ridesharing website .
+4.This is my first ridesharing website .
 
-I did my best for done this project
+5.I did my best for done this project
 
-In this website i used googlemap,privateRouting,firebaseAuthentication and many other things.
+6.In this website i used googlemap,privateRouting,firebaseAuthentication and many other things.
 
 Front-End:Html.css.javascript,ES6,React js,bootstrap.
 Tools:VS Code,Chrome dev,firebase,git.
