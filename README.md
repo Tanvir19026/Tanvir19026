@@ -8,7 +8,7 @@
 - Front-End Skills:Html,Css,JavaScript,Meterial UI,Bootstrap,React js.
 - Back-End skills:Node js,Express js,MongoDB etc.
 - Tools:Firebase,chrome dev,Vs code,Netlify,Heroku etc.
-- resume:https://drive.google.com/file/d/1d9AIA1U49DJBJj4dOH5_wdUOI9myAxl7/view?usp=sharing
+- resume:https://docs.google.com/document/d/1Fd_MhR7BH_LepfH_bAJ5F-sRsL1DTVbtBcBeuC9FRmE/edit?usp=sharing
 
  
 
