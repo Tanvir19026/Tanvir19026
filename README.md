@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanvir19026
 - 👀 I’m interested in Full stack webDevelopement
-- 🌱 I’m currently learning html,css,bootstrap,javascript,react js,node js,mongodb,express js etc.
+- 🌱 I have skills in html,css,bootstrap,tailwindCSS,javascript,react js,node js,mongodb,express js etc.
 - 💞️ I’m looking to collaborate on some webdevelopement company
 - 📫 How to reach me : https://www.facebook.com/tanvir.rafi.3348
 - linkedin profile :https://www.linkedin.com/in/tanvir-rafi-8a6aa2202/
@@ -8,7 +8,7 @@
 - Front-End Skills:Html,Css,JavaScript,Meterial UI,Bootstrap,React js.
 - Back-End skills:Node js,Express js,MongoDB etc.
 - Tools:Firebase,chrome dev,Vs code,Netlify,Heroku etc.
-- resume:https:https://drive.google.com/file/d/17isEqphUYIxnJ5y3862IvmNMS8g92q6u/view?usp=sharing
+- resume:https:https://drive.google.com/file/d/15Uu-ZefpJjH39ONlAQ0F0xwyrwgFgwWf/view?usp=sharing
 - CodeForcesProfileLink:https://codeforces.com/profile/Tanvir19026
 - HackerRankProfileLink:https://www.hackerrank.com/profile/tanvirrafi1999
 
