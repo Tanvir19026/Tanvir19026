@@ -8,7 +8,7 @@
 - Front-End Skills:Html,Css,JavaScript,Meterial UI,Bootstrap,React js.
 - Back-End skills:Node js,Express js,MongoDB etc.
 - Tools:Firebase,chrome dev,Vs code,Netlify,Heroku etc.
-- resume:https:https://drive.google.com/file/d/15Uu-ZefpJjH39ONlAQ0F0xwyrwgFgwWf/view?usp=sharing
+- resume:https://drive.google.com/file/d/1rmzHePI8xWQaExpOcPUa5V9YpkTu2X_4/view?usp=sharing
 - CodeForcesProfileLink:https://codeforces.com/profile/Tanvir19026
 - HackerRankProfileLink:https://www.hackerrank.com/profile/tanvirrafi1999
 
