@@ -1,17 +1,67 @@
-- 👋 Hi, I’m @Tanvir19026
-- 👀 I’m interested in Full stack webDevelopement
-- 🌱 I have skills in html,css,bootstrap,tailwindCSS,javascript,react js,node js,mongodb,express js etc.
-- 💞️ I’m looking to collaborate on some webdevelopement company
-- 📫 How to reach me : https://www.facebook.com/tanvir.rafi.3348
-- linkedin profile :https://www.linkedin.com/in/tanvir-rafi-8a6aa2202/
-- portfolio website:https://rafi-portfolio-sandy.vercel.app/
-- Front-End Skills:Html,Css,JavaScript,Meterial UI,Bootstrap,React js.
-- Back-End skills:Node js,Express js,MongoDB etc.
-- Tools:Firebase,chrome dev,Vs code,Netlify,Heroku etc.
-- resume:https://drive.google.com/file/d/1rmzHePI8xWQaExpOcPUa5V9YpkTu2X_4/view?usp=sharing
-- CodeForcesProfileLink:https://codeforces.com/profile/Tanvir19026
-- HackerRankProfileLink:https://www.hackerrank.com/profile/tanvirrafi1999
+# 👋 Hi, I’m Tanvir Rafi (@Tanvir19026)
 
+💻 **Full Stack Web Developer | Security Researcher | Enthusiastic Learner**
 
+---
 
+## 🌟 About Me
+- 🎓 Graduated from **Mawlana Bhashani Science and Technology University** with **CGPA 3.26**
+- 🌐 Interested in **Full Stack Web Development** & **Web Security**
+- 🔍 Research experience in **WebGuard (Security Project)** and **Role-Based Access Control (CareerWave)**
+- 🏆 Code problem solving: **Codeforces & HackerRank enthusiast**
+- 🗣️ IELTS Score: **6.0 overall** (S:6.5, W:6.5, L:6, R:5.5)
+- 🤝 Looking to collaborate with web development teams or security projects
 
+---
+
+## 💼 Skills
+
+### Front-End
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+### Back-End
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/ChromeDevTools-FD572C?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+### Security & Research
+- 🔐 **WebGuard:** Security research project
+- 🔍 **CareerWave:** Role-based access control research
+- 🧪 Passionate about **Web Security & Ethical Hacking**
+
+---
+
+## 📂 Projects
+- 🌐 [Portfolio Website](https://rafi-portfolio-sandy.vercel.app/)  
+- 🔗 WebGuard Security Project: [https://github.com/Tanvir19026/webguard_new](#)  
+- 🔗 CareerWave RBA Project: [https://github.com/Tanvir19026/CarrerWave](#)  
+
+---
+
+## 📫 Contact Me
+- [Facebook](https://www.facebook.com/tanvir.rafi.3348)  
+- [LinkedIn](https://www.linkedin.com/in/tanvir-rafi-8a6aa2202/)  
+- [Resume](https://drive.google.com/file/d/1rmzHePI8xWQaExpOcPUa5V9YpkTu2X_4/view?usp=sharing)  
+
+---
+
+## 🏅 Coding Profiles
+- [Codeforces](https://codeforces.com/profile/Tanvir19026)  
+- [HackerRank](https://www.hackerrank.com/profile/tanvirrafi1999)  
+
+---
+
+✨ “Learning never exhausts the mind.” – Leonardo da Vinci
