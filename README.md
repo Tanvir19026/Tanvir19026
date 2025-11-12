@@ -7,7 +7,7 @@
 ## 🌟 About Me
 - 🎓 Graduated from **Mawlana Bhashani Science and Technology University** with **CGPA 3.26**
 - 🌐 Interested in **Full Stack Web Development** & **Web Security**
-- 🔍 Research experience in **WebGuard (Security Project)** and **Role-Based Access Control (CareerWave)**
+- 🔍 Research experience in **WebGuard (Security Project)**
 - 🏆 Code problem solving: **Codeforces & HackerRank enthusiast**
 - 🗣️ IELTS Score: **6.0 overall** (S:6.5, W:6.5, L:6, R:5.5)
 - 📖 Published Research Journal: [Read Here](http://www.iapress.org/index.php/soic/article/view/2457)
