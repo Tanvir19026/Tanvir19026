@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tanvir Rafi (@Tanvir19026)
+# 👋 Hi, I’m Tanvir Rahman Rafi (@Tanvir19026)
 
 💻 **Full Stack Web Developer | Security Researcher | Enthusiastic Learner**
 
@@ -10,6 +10,7 @@
 - 🔍 Research experience in **WebGuard (Security Project)** and **Role-Based Access Control (CareerWave)**
 - 🏆 Code problem solving: **Codeforces & HackerRank enthusiast**
 - 🗣️ IELTS Score: **6.0 overall** (S:6.5, W:6.5, L:6, R:5.5)
+- 📖 Published Research Journal: [Read Here](http://www.iapress.org/index.php/soic/article/view/2457)
 - 🤝 Looking to collaborate with web development teams or security projects
 
 ---
@@ -24,11 +25,16 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+- ✅ **Responsive Web Design**
 
 ### Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -39,15 +45,16 @@
 
 ### Security & Research
 - 🔐 **WebGuard:** Security research project
-- 🔍 **CareerWave:** Role-based access control research
 - 🧪 Passionate about **Web Security & Ethical Hacking**
+- 📖 Research Publication: [SOIC Journal](http://www.iapress.org/index.php/soic/article/view/2457)
 
 ---
 
 ## 📂 Projects
 - 🌐 [Portfolio Website](https://rafi-portfolio-sandy.vercel.app/)  
 - 🔗 WebGuard Security Project: [https://github.com/Tanvir19026/webguard_new](#)  
-- 🔗 CareerWave RBA Project: [https://github.com/Tanvir19026/CarrerWave](#)  
+- 🔗 CareerWave RBA Project: [https://github.com/Tanvir19026/CarrerWave](#)
+- 🔗 ExpressoCoffe Mern Project: [https://github.com/Tanvir19026/ExpressoCoffee](#)  
 
 ---
 
