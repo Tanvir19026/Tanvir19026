@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Graduated from **Mawlana Bhashani Science and Technology University** with **CGPA 3.26**
+- 🎓 Graduated from **Mawlana Bhashani Science and Technology University** in **CSE** with **CGPA 3.26**
 - 🌐 Interested in **Full Stack Web Development** & **Web Security**
 - 🔍 Research experience in **WebGuard (Security Project)**
 - 🏆 Code problem solving: **Codeforces & HackerRank enthusiast**
